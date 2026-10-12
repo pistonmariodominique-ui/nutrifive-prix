@@ -1,0 +1,884 @@
+{
+ "source": "RNM FranceAgriMer — cours de détail en grandes et moyennes surfaces (prix moyens TTC)",
+ "url": "https://rnm.franceagrimer.fr",
+ "date": "2026-10-08",
+ "generated": "2026-10-12T15:45:15.965Z",
+ "items": [
+  {
+   "market": "Légumes",
+   "name": "AIL blanc sec France 50-70 ou 60-80mm filet 3 têtes (le filet)",
+   "price": 3.75,
+   "unit": "filet"
+  },
+  {
+   "market": "Légumes",
+   "name": "AIL blanc sec France biologique",
+   "price": 18.51,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "AIL blanc sec France vrac",
+   "price": 11.45,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "AIL blanc sec hors Fr. vrac",
+   "price": 11.57,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "ARTICHAUT Globuleux France (la pièce)",
+   "price": 3.09,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "AUBERGINE violette France biologique cdt 2 (le cdt 2)",
+   "price": 3.67,
+   "unit": "cdt 2"
+  },
+  {
+   "market": "Légumes",
+   "name": "AUBERGINE violette France vrac",
+   "price": 3.33,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "AUBERGINE violette hors Fr. biologique cdt 2 (le cdt 2)",
+   "price": 2.93,
+   "unit": "cdt 2"
+  },
+  {
+   "market": "Légumes",
+   "name": "AUBERGINE violette hors Fr. vrac",
+   "price": 3.16,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "AVOCAT hors Fr. biologique (la pièce)",
+   "price": 1.57,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "AVOCAT hors Fr. filet (la pièce)",
+   "price": 0.77,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "AVOCAT hors Fr. vrac (la pièce)",
+   "price": 1.41,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CAROTTE France lavée biologique",
+   "price": 2.4,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "CAROTTE France lavée sachet 1,5 kg",
+   "price": 1.94,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "CAROTTE France lavée sachet 1kg",
+   "price": 1.45,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "CAROTTE France lavée sachet 2kg",
+   "price": 1.33,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "CAROTTE France lavée vrac",
+   "price": 1.98,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "CHICORÉE frisée France (la pièce)",
+   "price": 3.36,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CHOU FLEUR France (la pièce)",
+   "price": 3.56,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CONCOMBRE France (la pièce)",
+   "price": 1.44,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CONCOMBRE France biologique (la pièce)",
+   "price": 2.49,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CONCOMBRE hors Fr. (la pièce)",
+   "price": 1.36,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "CONCOMBRE hors Fr. biologique (la pièce)",
+   "price": 1.7,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGE Potimarron France (la pièce)",
+   "price": 2.28,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGE Potimarron France biologique (la pièce)",
+   "price": 2.62,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte France biologique",
+   "price": 4.52,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte France filet 1kg",
+   "price": 2.4,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte France vrac",
+   "price": 2.27,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte hors Fr. biologique",
+   "price": 4.9,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte hors Fr. filet 1kg",
+   "price": 2.04,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "COURGETTE longue verte hors Fr. vrac",
+   "price": 1.89,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "ENDIVE France sachet 1kg",
+   "price": 3.12,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "ENDIVE France vrac",
+   "price": 4.24,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "LAITUE Batavia France (la pièce)",
+   "price": 1.64,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "LAITUE Feuille de chêne France (la pièce)",
+   "price": 1.67,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "LAITUE pommée-batavia-feuille de chêne France biologique (la pièce)",
+   "price": 2.28,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "LAITUE pommée France (la pièce)",
+   "price": 1.69,
+   "unit": "pièce"
+  },
+  {
+   "market": "Légumes",
+   "name": "OIGNON jaune France biologique",
+   "price": 3.04,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "OIGNON jaune France filet 1kg",
+   "price": 2.5,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIREAU France entier biologique",
+   "price": 5.26,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIREAU France entier botte 1kg",
+   "price": 3.1,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIREAU France entier vrac",
+   "price": 3.06,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON carré France biologique cdt 2 (le cdt 2)",
+   "price": 3.8,
+   "unit": "cdt 2"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON carré hors Fr. biologique cdt 2 (le cdt 2)",
+   "price": 2.35,
+   "unit": "cdt 2"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON rouge carré France vrac",
+   "price": 4.66,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON rouge carré hors Fr. vrac",
+   "price": 4.92,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON vert carré France vrac",
+   "price": 4.55,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POIVRON vert carré hors Fr. vrac",
+   "price": 4.87,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE de conservation France lavée sac 5kg",
+   "price": 0.9,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE de conservation France vrac",
+   "price": 2.15,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE four, frites ou purée de conservation France filet 2,5kg",
+   "price": 1.49,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE four, frites ou purée de conservation France filet 2kg",
+   "price": 1.68,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE France biologique",
+   "price": 2.24,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE vapeur ou rissolée de conservation France filet 2,5kg",
+   "price": 1.38,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "POMME DE TERRE vapeur ou rissolée de conservation France filet 2kg",
+   "price": 1.72,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE cerise allongée rouge France barq.250g",
+   "price": 8.2,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE cerise allongée rouge hors Fr. barq.250g",
+   "price": 3.99,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE cerise France biologique",
+   "price": 12.72,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE cocktail France barq.500g",
+   "price": 7.09,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE côtelée rouge France vrac",
+   "price": 5.52,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde ou ronde grappe France biologique",
+   "price": 7.74,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge Belgique 77-82 ou 82-102mm vrac",
+   "price": 5.13,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge France 57-67 ou 67-82mm vrac",
+   "price": 3.56,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge France 77-82 ou 82-102mm vrac",
+   "price": 4.52,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge France filet 1kg",
+   "price": 2.25,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge France grappe vrac",
+   "price": 3.37,
+   "unit": "kg"
+  },
+  {
+   "market": "Légumes",
+   "name": "TOMATE ronde rouge Maroc filet 1kg",
+   "price": 2,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "ANANAS standard (hors Victoria) (la pièce)",
+   "price": 2.39,
+   "unit": "pièce"
+  },
+  {
+   "market": "Fruits",
+   "name": "BANANE Afrique vrac",
+   "price": 1.97,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "BANANE Amérique vrac",
+   "price": 1.97,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "BANANE France vrac",
+   "price": 2,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "BANANE hors Fr. biologique",
+   "price": 2.19,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "BANANE hors Fr. biologique 5 fruits (les 5 fruits)",
+   "price": 2.06,
+   "unit": "5 fruits"
+  },
+  {
+   "market": "Fruits",
+   "name": "FRAMBOISE France barq.125g",
+   "price": 25.64,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "FRAMBOISE hors Fr. barq.125g",
+   "price": 21.93,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "MARRON CHATAIGNE France vrac",
+   "price": 8.4,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "NOIX AOP Grenoble sac 1kg",
+   "price": 6.48,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "NOIX AOP Grenoble sachet 500g",
+   "price": 8.06,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "NOIX France biologique",
+   "price": 8.16,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "NOIX sans label France vrac",
+   "price": 6.24,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "ORANGE hors Fr. biologique",
+   "price": 5.32,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "ORANGE hors Fr. biologique cdt 4 (le cdt 4)",
+   "price": 5.01,
+   "unit": "cdt 4"
+  },
+  {
+   "market": "Fruits",
+   "name": "ORANGE hors Fr. vrac",
+   "price": 2.97,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Conférence France vrac",
+   "price": 3.32,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Conférence hors Fr. vrac",
+   "price": 3.26,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Doyenne du comice France vrac",
+   "price": 4,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE France biologique cdt 4 (le cdt 4)",
+   "price": 2.82,
+   "unit": "cdt 4"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Guyot ou Limonera France vrac",
+   "price": 3.34,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Rochas hors Fr. vrac",
+   "price": 3.56,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POIRE Williams verte France vrac",
+   "price": 3.13,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Bicolore France biologique",
+   "price": 2.89,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Bicolore France biologique cdt 4 (le cdt 4)",
+   "price": 2.54,
+   "unit": "cdt 4"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Bicolore France biologique cdt 6 (le cdt 6)",
+   "price": 3.33,
+   "unit": "cdt 6"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Bicolore France sachet",
+   "price": 1.66,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Gala France 136/180g vrac",
+   "price": 2.31,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Gala France +170g vrac",
+   "price": 2.4,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France 136/180g vrac",
+   "price": 2.45,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France +170g vrac",
+   "price": 2.49,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France biologique",
+   "price": 3.29,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France biologique cdt 4 (le cdt 4)",
+   "price": 2.65,
+   "unit": "cdt 4"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France biologique cdt 6 (le cdt 6)",
+   "price": 3.69,
+   "unit": "cdt 6"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Golden France sachet",
+   "price": 1.87,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Granny smith France 136/180g vrac",
+   "price": 2.57,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Granny smith France +170g vrac",
+   "price": 2.77,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Reinette grise du Canada France 136/180g vrac",
+   "price": 2.99,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "POMME Reinette grise du Canada France +170g vrac",
+   "price": 3.38,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE bleue Quetsche France vrac",
+   "price": 4.12,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE jaune autre ou inconnue France vrac",
+   "price": 4.24,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE jaune Mirabelle France vrac",
+   "price": 5.5,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE jaune T-C Sun France vrac",
+   "price": 4.1,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE rouge-bleue France barq.",
+   "price": 3.37,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE rouge France vrac",
+   "price": 3.68,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE verte Reine-Claude de Bavay France barq.",
+   "price": 6.45,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "PRUNE verte Reine-Claude de Bavay France vrac",
+   "price": 5.05,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc Chasselas AOP Moissac France barq.",
+   "price": 6.56,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc Chasselas AOP Moissac France vrac",
+   "price": 5.02,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc France biologique",
+   "price": 8.09,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc hors Fr. biologique",
+   "price": 8.18,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc Idéal ou Italia hors Fr. vrac",
+   "price": 3.17,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN blanc Vittoria hors Fr. vrac",
+   "price": 3.1,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir autre noir France vrac",
+   "price": 4.37,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir France biologique",
+   "price": 8.46,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir Lavallée France vrac",
+   "price": 4.05,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir Muscat Hambourg AOP Ventoux France barq.",
+   "price": 8.69,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir Muscat Hambourg sans label France barq.",
+   "price": 7.15,
+   "unit": "kg"
+  },
+  {
+   "market": "Fruits",
+   "name": "RAISIN noir Muscat Hambourg sans label France vrac",
+   "price": 4.99,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "AGNEAU (gigot) France",
+   "price": 23.76,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "BOEUF (steak haché) 15% MG France cdt 1à3",
+   "price": 17.39,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "BOEUF (steak haché) 15% MG France cdt 1à3 biologique",
+   "price": 24.38,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "LAPIN (entier) France",
+   "price": 12.51,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "PORC (côte) avec os France cdt 4à10",
+   "price": 7.65,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "POULET prêt à cuire France biologique",
+   "price": 12.34,
+   "unit": "kg"
+  },
+  {
+   "market": "Viande",
+   "name": "POULET prêt à cuire France label rouge cdt 1",
+   "price": 7.4,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "CABILLAUD (dos de cabillaud)",
+   "price": 33.17,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "HUÎTRE creuse cal.3-4-5 vrac",
+   "price": 9.52,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "LIEU noir (filet)",
+   "price": 15.15,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "MOULE vrac France",
+   "price": 5.68,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "SAUMON pavé aquaculture hors Fr.",
+   "price": 23.67,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "SOLE portion",
+   "price": 28.38,
+   "unit": "kg"
+  },
+  {
+   "market": "Poisson",
+   "name": "TRUITE (entière) vidée aquaculture portion France",
+   "price": 15.93,
+   "unit": "kg"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "LAIT UHT biologique demi écrémé bouteille plastique (le litre)",
+   "price": 1.15,
+   "unit": "L"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "LAIT UHT demi écrémé bouteille plastique (le litre)",
+   "price": 1.07,
+   "unit": "L"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "LAIT UHT demi écrémé brique (le litre)",
+   "price": 0.96,
+   "unit": "L"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "OEUF biologique France barq. de 6 (la boîte de 6)",
+   "price": 2.59,
+   "unit": "boîte de 6"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "OEUF label rouge France barq. de 6 (la boîte de 6)",
+   "price": 2.14,
+   "unit": "boîte de 6"
+  },
+  {
+   "market": "Lait et œufs",
+   "name": "OEUF sans label France barq. de 6 (la boîte de 6)",
+   "price": 1.61,
+   "unit": "boîte de 6"
+  }
+ ]
+}
