@@ -1,0 +1,23 @@
+name: Relevé hebdomadaire RNM
+on:
+  schedule:
+    - cron: '0 6 * * 1,4'   # lundi et jeudi 6 h UTC (le RNM publie en milieu de semaine)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node rnm.mjs
+      - name: Publier si le relevé a changé
+        run: |
+          git config user.name "releve-rnm"
+          git config user.email "actions@users.noreply.github.com"
+          git add rnm.json
+          git diff --cached --quiet -- rnm.json && echo "Rien de neuf" && exit 0
+          git commit -m "Relevé RNM $(node -p "require('./rnm.json').date")"
+          git push
