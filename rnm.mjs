@@ -2,7 +2,7 @@
 // de FranceAgriMer (service public). Écrit rnm.json, lu par l'app NutriFive.
 // Le site RNM n'autorise pas les appels depuis un navigateur (pas de CORS) : ce script
 // tourne chaque semaine sur GitHub Actions et publie un fichier statique.
-import { writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 
 const MARKETS = { M2502: 'Légumes', M2503: 'Fruits', M2501: 'Viande', M2500: 'Poisson', M2504: 'Lait et œufs' };
 const decode = s => s.replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n)).replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ')
@@ -35,6 +35,15 @@ for (const [code, label] of Object.entries(MARKETS)) {
   }
   // Une page vide = la page a changé de forme : on échoue plutôt que publier un fichier creux.
   if (!n) throw new Error(`${code} (${label}) : aucun prix lu, la page a peut-être changé`);
+}
+// Même semaine, mêmes prix : on ne réécrit pas le fichier. Avant le 18/10/2026, seule l'heure
+// « generated » changeait et la tâche publiait un faux « nouveau relevé » (commit du 15/10).
+if (existsSync('rnm.json')) {
+  const old = JSON.parse(readFileSync('rnm.json', 'utf8'));
+  if (old.date === date && JSON.stringify(old.items) === JSON.stringify(items)) {
+    console.log(`Rien de neuf : relevé du ${date} déjà publié (${items.length} prix).`);
+    process.exit(0);
+  }
 }
 writeFileSync('rnm.json', JSON.stringify({
   source: 'RNM FranceAgriMer — cours de détail en grandes et moyennes surfaces (prix moyens TTC)',

@@ -1,7 +1,10 @@
 name: Relevé hebdomadaire RNM
 on:
   schedule:
-    - cron: '0 6 * * 1,4'   # lundi et jeudi 6 h UTC (le RNM publie en milieu de semaine)
+    # Tous les jours à 6 h UTC (18/10/2026) : le RNM publie une semaine avec quelques jours de retard
+    # (le 18/10, la dernière en ligne était celle du 5 au 11 octobre). Passer chaque jour la récupère
+    # au plus tard le lendemain de sa parution, au lieu d'attendre jusqu'à 3 jours (lundi/jeudi).
+    - cron: '0 6 * * *'
   workflow_dispatch:
 permissions:
   contents: write
