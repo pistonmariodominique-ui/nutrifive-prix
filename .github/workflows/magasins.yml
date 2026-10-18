@@ -1,0 +1,28 @@
+name: Liste hebdomadaire des supermarchés
+on:
+  schedule:
+    # Chaque lundi à 3 h UTC (avant le relevé des prix de 6 h) : la liste des supermarchés
+    # de France change peu, une fois par semaine suffit. Publication AUTOMATIQUE (demande
+    # de Mario, 18/10/2026) : rien à faire à la main ensuite.
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  magasins:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node magasins.mjs
+      - name: Publier si la liste a changé
+        run: |
+          git config user.name "releve-magasins"
+          git config user.email "actions@users.noreply.github.com"
+          git add magasins.json
+          git diff --cached --quiet -- magasins.json && echo "Rien de neuf" && exit 0
+          git commit -m "Supermarchés : $(node -p "require('./magasins.json').items.length") au $(node -p "require('./magasins.json').date")"
+          git pull --rebase
+          git push
